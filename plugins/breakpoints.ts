@@ -1,5 +1,4 @@
 
 export default defineNuxtPlugin(() => {
-    const { current } = useBreakpoints();
-    return { provide: { breakpoints: current } };
+    return { provide: { breakpoints: { test: true } } };
 });

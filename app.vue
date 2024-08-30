@@ -1,4 +1,4 @@
 <template lang="pug">
 div
-  pre {{ $breakpoints.test }}
+  nuxt-page
 </template>

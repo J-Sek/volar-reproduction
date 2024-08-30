@@ -15,7 +15,7 @@
   "dependencies": {
     "@pinia/nuxt": "^0.5.4",
     "nuxt": "^3.13.0",
-    "pug": "^3.0.3",
+    "pug": "3.0.2",
     "vue": "latest"
   }
 }
